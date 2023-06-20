@@ -9,7 +9,7 @@
                 "title":"Home",
                 "provider":"webview",
                 "arguments":[
-                    "https://www.google.com/"
+                    "https://www.youtube.com/"
                 ]
             }
         ]
