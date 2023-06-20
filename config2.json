@@ -1,6 +1,6 @@
 [
     {
-        "title":"Homeee",
+        "title":"Homeee edit",
         "drawable":"homeNew",
         "submenu":"Library",
         "iap":false,
@@ -9,7 +9,7 @@
                 "title":"Home",
                 "provider":"webview",
                 "arguments":[
-                    "https://jw.org/"
+                    "https://bing.com/"
                 ]
             }
         ]
