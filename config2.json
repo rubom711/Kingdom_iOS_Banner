@@ -10,7 +10,7 @@
     {
         "title":"Italiano",
         "provider":"webview",
-        "image": "https://image.ibb.co/kV3Dvm/italy.jpg",
+        "image": "https://image.ibb.co/mHMBgR/rus.jpg",
         "arguments":[
             "https://www.jw.org/it/"
         ]
@@ -18,7 +18,7 @@
     {
         "title":"日本語",
         "provider":"webview",
-        "image":"https://image.ibb.co/kyiP1R/jap.jpg",
+        "image":"https://image.ibb.co/mHMBgR/rus.jpg",
         "arguments":[
             "https://www.jw.org/ja/"
         ]
